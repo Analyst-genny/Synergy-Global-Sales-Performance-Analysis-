@@ -1,4 +1,5 @@
 # Synergy-Global-Sales-Performance-Analysis-
+This was a project for Vephla Cohort 20A
 
 The dashboard presents a detailed analysis of Synergy Global's sales performance for 2014, revealing that the company achieved a total revenue of $435K, with the highest revenue month being December. 
 Nancy is recognized as the top salesperson, with sales amounting to $104,242, followed by Andrew with $93,848.
